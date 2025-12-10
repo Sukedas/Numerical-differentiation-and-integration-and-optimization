@@ -3,7 +3,6 @@
 This project is a Python-based application that allows users to perform Numerical Differentiation, Integration, and Optimization on custom mathematical functions. It provides step-by-step solutions to help understand the underlying algorithms.
 
 ## Features
-<img src="./Diagramma de clases.png" width="750" alt="Diagramma de clases">
 - **Numerical Differentiation**:
     - Forward Difference
     - Backward Difference
