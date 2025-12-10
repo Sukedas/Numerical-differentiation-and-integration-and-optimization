@@ -3,7 +3,7 @@
 This project is a Python-based application that allows users to perform Numerical Differentiation, Integration, and Optimization on custom mathematical functions. It provides step-by-step solutions to help understand the underlying algorithms.
 
 ## Features
-
+<img src="./Diagramma de clases.png" width="550" alt="Diagramma de clases">
 - **Numerical Differentiation**:
     - Forward Difference
     - Backward Difference
@@ -16,7 +16,6 @@ This project is a Python-based application that allows users to perform Numerica
     - Gradient Descent (Minimum Finding)
 - **Step-by-Step Display**: View the calculations for each iteration.
 - **Visualization**: Interactive plots using Matplotlib.
-<img src="./Diagramma de clases.png" width="550" alt="Diagramma de clases">
 ## Prerequisites
 
 - Python 3.9+
@@ -53,4 +52,5 @@ This project is a Python-based application that allows users to perform Numerica
 2.  Enter your function in Python syntax (e.g., `x**2`, `sin(x)`).
 3.  Adjust parameters (start/end points, step size `h`, etc.).
 4.  Click **Calculate** to see the result, steps, and plot.
+
 
